@@ -1,0 +1,6 @@
+---
+applications:
+ - name: ui-garage-insights
+   random-route: false
+   memory: 100M
+   
