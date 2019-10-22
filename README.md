@@ -1,1 +1,2 @@
-It will upload files in DB and broadcast it to every location configured in Database
+# Advertisment
+Customized Advertisment APP which save imges, video in DB. In UI , everthing will be visible in Slide
